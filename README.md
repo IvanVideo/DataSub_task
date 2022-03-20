@@ -1,3 +1,25 @@
+# Тестовая работа компании DataSub на вакансию Junior Javascript (REACT/Node.js) developer
+#
+##### frontend часть разрабатываллась тут: https://github.com/IvanVideo/DataSub_Frontend
+##### backend часть тут: https://github.com/IvanVideo/DataSub_Backend
+#
+## Чтобы запустить проект локально выполните следующие действия:
+Откройти командную строку. Зайдите в нужную деррикторию и введите следующую команду
+```sh
+git clone hhttps://github.com/IvanVideo/DataSub_task
+```
+Установите в каждую из деррикторий(frontend и backend) все необходимые зависимости, с помощью команды
+```sh
+npm install
+```
+После успешной установки запустите сначала backend, а потом frontend, с помощью команды
+```sh
+npm start
+```
+#### Стек технологий, примененный в данном проекте:
+###### backend
+* серверная часть приложения написана на express.js
+* база данных MongoDB
 ###### frontend
 * фронтенд часть приложения написана на библиотеке React
 * БЭМ
